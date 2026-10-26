@@ -1,7 +1,7 @@
 
 ## About
 
-A State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC) Workshop will be held during the [High Performance Computing Asia 2027 (SCA2027)](https://hpcasia2027.org/2027/), conference held in Seoul, Republic of Korea on February 17 - 19, 2027. SPIN-NVSC is a half-day workshop taking place from 9:00 am. to 12:30pm on February 19th.
+A State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC) Workshop will be held during the [Supercomputing Asia 2027 (SCA2027)][(https://hpcasia2027.org/2027/](https://www.sc-asia.org)), conference held in Singapore on March 1 - 4, 2027. SPIN-NVSC is a XYZ-WHAT-XYZ-day workshop taking place from XYZ-WHAT-XYZ on March XYZ-WHAT-XYZ.
 
 HPC centres worldwide are navigating a significant architectural transition, as they seek to balance the demands of traditional simulation workloads with the rapid growth of AI and data-intensive applications. The emergence of unified CPU-GPU Superchip platforms — spanning the Grace-Grace, Grace Hopper, Grace Blackwell, and forthcoming Vera Rubin architectures — offers a coherent family of solutions targeting different points in this workload spectrum, from memory-bandwidth-bound simulation to large-scale AI inference and training. With early adopters now deploying these systems into production and Vera Rubin entering availability in the second half of 2026, the community is actively navigating opportunities and challenges spanning system design, software stack integration, workflow portability, application readiness, resiliency, resource management, and energy efficiency. This workshop, organised by the NVIDIA Supercomputing Users Group (NVSUG), brings together HPC practitioners, system architects, and computational scientists deploying or planning to deploy systems based on these architectures. Contributions from application developers and end users are strongly encouraged.
 
@@ -27,14 +27,14 @@ The timing of the schedule will be announced when the conference organizers prov
 
 ## Key Dates
 
-- Submission Deadline: ~~June 30, 2026~~ July 8, 2026 (AoE)
-- Notification: July 23, 2026
-- Camera Ready Deadline: July 30, 2026 (AoE)
-- Workshop: September 28, 2026
+- Submission Deadline: December 8, 2027 (AoE)
+- Notification: December 22, 2026
+- Camera Ready Deadline: January 8, 2027 (AoE)
+- Workshop: XYZ-WHAT-XYZ
 
 ## Submissions 
 
-SPIN-NVSC is accepting papers up to XYZ-WHAT-XYZ. The page limit includes all references and appendices. 
+SPIN-NVSC is accepting papers up to XYZ-WHAT-XYZ pages. The page limit includes all references and appendices. 
 
 SPIN-NVSC workshop uses XYZ-WHAT-XYZ for submissions. 
 
