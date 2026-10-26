@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: url("{{ site.baseurl }}/assets/images/spin-nvsc-bg.png");
+  background-size: cover;
+  background-position: center;
+}
