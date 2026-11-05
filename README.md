@@ -57,12 +57,17 @@ To submit, please use this [XYZ-WHAT-XYZ link](XYZ-WHAT-XYZ) and select the NVSU
 | Individual                 | Affiliation                            |
 |----------------------------|----------------------------------------|
 | John Cazes                 | TACC                                   |
+| Himeshi De Silva           | NSCC                                   |
+| Jorge Luis Galvez Vallejo  | Australian National University         |
+| Joe Greenseid              | NVIDIA                                 |
+| Vineeth Gutta              | NVIDIA                                 |
 | Adam Lavely                | LBNL NERSC                             |
 | Colin McMurtrie            | CSCS/ETH Zurich                        |
+| Gabriel Noaje              | NVIDIA                                 |
 <!-- | Jorge Luis Galvez Vallejo  | National Computational Infrastructure  |
 | Ugo Varetto                | Pawsey Supercomputing Research Centre  |
 | Wang Yi                    | NSCC                                   |
-| Himeshi De Silva           | NSCC                                   |
+
 | Todd Evans                 | NVIDIA                                 |
 | Simon See                  | NVIDIA                                 |
 | Cerlane Leong              | CSCS                                   |
