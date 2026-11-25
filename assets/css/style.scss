@@ -8,3 +8,7 @@
   background-size: cover;
   background-position: center;
 }
+
+header a[href*="about"] {
+  color: #ff5733 !important;
+}
