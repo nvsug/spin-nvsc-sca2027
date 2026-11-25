@@ -22,7 +22,7 @@ The detailed schedule and timing of the workshop will be announced soon. The sch
 - Invited Plenary Talk
 - NVSUG Community Update
 - NVSUG Panel
-- Paper Talks 
+- Paper Talks
 
 ## Key Dates
 
