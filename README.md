@@ -1,7 +1,7 @@
 
 ## About
 
-A State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC) Workshop will be held during the [Supercomputing Asia 2027 (SCA2027)](https://www.sc-asia.org), conference held in Singapore on March 1 - 4, 2027. SPIN-NVSC will be held on Monday, 1st March 2027. 
+The 2nd State of Practice in Deploying Supercomputers with NVIDIA Superchips (SPIN-NVSC) Workshop will be held during the [Supercomputing Asia 2027 (SCA2027)](https://www.sc-asia.org), conference held in Singapore on March 1 - 4, 2027. SPIN-NVSC will be held on Monday, 1st March 2027. 
 
 HPC centres worldwide are navigating a significant architectural transition, as they seek to balance the demands of traditional simulation workloads with the rapid growth of AI and data-intensive applications. The emergence of unified CPU-GPU Superchip platforms — spanning the Grace-Grace, Grace Hopper, Grace Blackwell, and forthcoming Vera Rubin architectures — offers a coherent family of solutions targeting different points in this workload spectrum, from memory-bandwidth-bound simulation to large-scale AI inference and training. With early adopters now deploying these systems into production and Vera Rubin entering availability in the second half of 2026, the community is actively navigating opportunities and challenges spanning system design, software stack integration, workflow portability, application readiness, resiliency, resource management, and energy efficiency. This workshop, organised by the NVIDIA Supercomputing Users Group (NVSUG), brings together HPC practitioners, system architects, and computational scientists deploying or planning to deploy systems based on these architectures. Contributions from application developers and end users are strongly encouraged.
 
