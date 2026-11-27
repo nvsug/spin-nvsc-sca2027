@@ -26,7 +26,7 @@ The detailed schedule and timing of the workshop will be announced soon. The sch
 
 ## Key Dates
 
-- Submission Deadline: December 22, 2026 (AoE)
+- Submission Deadline: December 15, 2026 (AoE)
 - Notification: December 31, 2026 (AoE)
 - Camera Ready Deadline: January 8, 2027 (AoE)
 - Workshop: March 1, 2027
@@ -35,7 +35,7 @@ The detailed schedule and timing of the workshop will be announced soon. The sch
 
 SPIN-NVSC is accepting papers up to 10 pages. The page limit includes all references and appendices.
 
-The paper submission format should follow the instructions provided for regular SCAsia papers, available [here](https://sca27.sc-asia.org/submit/call-for-papers/).
+The paper submission format should follow the instructions provided for regular SCA papers, available [here](https://sca27.sc-asia.org/submit/call-for-papers/).
 
 SPIN-NVSC workshop uses LinkLings for submissions. To submit, please use [the submission system](https://ssl.linklings.net/conferences/SCAsia) and select "Workshop Papers - Submission Form" and then "State of Practice in Deploying Supercomputers with NVIDIA Superchips" in the "Select the workshop for this submission" section.
 
@@ -86,3 +86,7 @@ Friday, February 19, 2027
 <!--
 ## SCA2027 Workshop Proceedings>
 <!-- All papers presented during SPIN-NVSC workshop have been published within the ICPP'26 Workshop Proceedings available [here](https://dl.acm.org/doi/proceedings/10.1145/3816891). -->
+
+## Workshop History
+
+- [1st State of Practice in Deploying Supercomputers with NVIDIA Superchips Workshop (SPIN-NVSC)](https://nvsug.github.io/spin-nvsc) help in conjunction with [ICPP'26](https://icpp2026.github.io)
